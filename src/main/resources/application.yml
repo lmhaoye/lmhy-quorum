@@ -1,0 +1,9 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: lmhy-quorum
+bcos:
+  url: http://172.16.2.122:22000
+  wallet: D:\ideaspace\lmhy-bcos\src\main\resources\wallet.json
+  pwd: 1111
